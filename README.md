@@ -142,3 +142,26 @@ soc-analyst-homelab/
 - [Atomic Red Team by Red Canary](https://github.com/redcanaryco/atomic-red-team)
 - [Splunk Free Trial](https://www.splunk.com/)
 - [Wazuh Open Source](https://wazuh.com/)
+
+## Screenshots
+
+[First Detection]
+
+![Running T1059 001-1 Mimikatz Atomic Test](Running%20T1059.001-1%20Mimikatz%20Atomic%20Test.png)
+
+[PowerShell Output Second Detection]
+
+![Powershell output](Powershell%20output.png)
+
+[Splunk Outputs from Detection]
+
+![Screenshot 2026-05-27 210511](Screenshot%202026-05-27%20210511.png)
+![Screenshot 2026-05-27 210553](Screenshot%202026-05-27%20210553.png)
+
+[Splunk Creation Events]
+
+![Screenshot 2026-05-27 210648](Screenshot%202026-05-27%20210648.png)
+
+[Splunk Process Execution Counts]
+
+![Screenshot 2026-05-27 210710](Screenshot%202026-05-27%20210710.png)
